@@ -1,0 +1,4 @@
+- Hi, I’m Salar Ahmed
+- live a simple life and code a simple program, simplicity :DDDDDDD
+- you can contact me via mail: salarahmed9876@gmail.com
+- thank you!!!!
