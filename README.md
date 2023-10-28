@@ -1,4 +1,4 @@
-- Hi, I’m Salar Ahmed
+- Hi, I’m Mr. smartypants.
 - 👹👹👺👺👺👺
 - you can contact me via mail: idk i forgot (p≧w≦q)
 - GIVE ME MO-MO-MO-MO-MONEYYY!!!!!
