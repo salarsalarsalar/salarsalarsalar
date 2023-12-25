@@ -1,11 +1,6 @@
-- Hi, I’m Mr. smartypants.
-- 👹👹👺👺👺👺
-- you can contact me via mail: idk i forgot (p≧w≦q)
-- GIVE ME MO-MO-MO-MO-MONEYYY!!!!!
-- My drip too REAL and SWAGGER
-- Dab on em haters damn daniel hey now your an all star. meme review.  
-- Gamers are are far too much oppresed in our society and its time spread awareness on gamer discrimination
-- it's "you're" actually
-- We are Dank, we are chungus, we are keanu reeves, we are wholesome, we are bro army, we are pogchamps.
+- Hi, I’m Salar Ahmed
+- Anything Data Science related
+- Enthusiatic about helping People sometimes
+- Eager for work
+- Many times curious,  sometimes a bit too much... curiosity kills the cat
 
-- yeah i code sometimes when i am feeling silly.
