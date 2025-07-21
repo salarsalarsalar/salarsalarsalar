@@ -1,9 +1,3 @@
-- Hi, I’m Salar Ahmed
-- Anything Data Science related
-- Eager for work
-- Many times curious about things
-- You can contact me via email: salarahmed9876@gmail.com
-
 # 👋 Hi, I'm Salar Ahmed
 
 I'm a data enthusiast and full-stack developer passionate about making smart tech. I work with Python, Node.js, and Machine Learning.
