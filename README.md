@@ -24,4 +24,4 @@ I'm a data enthusiast and full-stack developer passionate about making smart tec
 ---
 
 ## 📫 Reach Me
-[LinkedIn](https://linkedin.com/in/yourprofile) • [Portfolio](https://salarahmed4.wordpress.com/) • [Email](salarahmed9876@gmail.com)
+[LinkedIn](https://linkedin.com/in/yourprofile) • [Portfolio]([https://salarahmed4.wordpress.com/](https://my-portfolio-m4elqliu4-salar-ahmeds-projects.vercel.app/)) • [Email](salarahmed9876@gmail.com)
