@@ -22,6 +22,10 @@ I'm a data enthusiast and full-stack developer passionate about making smart tec
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salarAhmed&show_icons=true&theme=radical)
 
 ---
+## 📄Porfolio Website
+[Portfolio](https://my-portfolio-m4elqliu4-salar-ahmeds-projects.vercel.app/)
 
 ## 📫 Reach Me
-[LinkedIn](https://linkedin.com/in/yourprofile) • [Portfolio]([https://salarahmed4.wordpress.com/](https://my-portfolio-m4elqliu4-salar-ahmeds-projects.vercel.app/)) • [Email](salarahmed9876@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/salar-ahmed-426622296/)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](salarahmed9876@gmail.com)
+ 
