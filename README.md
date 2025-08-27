@@ -20,7 +20,8 @@ I'm a data enthusiast and full-stack developer passionate about making smart tec
 
 ## 📈 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salarsalarsalar&show_icons=true&theme=radical)
-<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=salarsalarsalar&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
+
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=salarsalarsalar&show_icons=true&theme=radical)
 
 
 ---
@@ -29,5 +30,6 @@ I'm a data enthusiast and full-stack developer passionate about making smart tec
 
 ## 📫 Reach Me
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/salar-ahmed-426622296/)
+
 [![My Skills](https://skillicons.dev/icons?i=gmail)](salarahmed9876@gmail.com)
  
