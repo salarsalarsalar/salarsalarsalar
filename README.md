@@ -26,7 +26,7 @@ I'm a data enthusiast and full-stack developer passionate about making smart tec
 
 ---
 ## 📄Porfolio Website
-[<image style="border-radius: 50%" src="Portfolio_icon.png" height=64 width=64>](https://my-portfolio-m4elqliu4-salar-ahmeds-projects.vercel.app/)
+[<image style="border-radius: 50%" src="Portfolio_icon-modified.png" height=64 width=64>](https://my-portfolio-m4elqliu4-salar-ahmeds-projects.vercel.app/)
 
 
 ## 📫 Reach Me
