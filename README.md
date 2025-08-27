@@ -19,7 +19,9 @@ I'm a data enthusiast and full-stack developer passionate about making smart tec
 ---
 
 ## 📈 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salarAhmed&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salarsalarsalar&show_icons=true&theme=radical)
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=salarsalarsalar&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
+
 
 ---
 ## 📄Porfolio Website
