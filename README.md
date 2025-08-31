@@ -30,6 +30,7 @@ I'm a data enthusiast and full-stack developer passionate about making smart tec
 
 
 ## 📫 Reach Me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/salar-ahmed-426622296/)
-[![Mail](https://skillicons.dev/icons?i=gmail)](mailto:salarahmed9876@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/salar-ahmed-426622296/) https://www.linkedin.com/in/salar-ahmed-426622296/
+
+[![Mail](https://skillicons.dev/icons?i=gmail)](mailto:salarahmed9876@gmail.com) salarahmed9876@gmail.com
  
