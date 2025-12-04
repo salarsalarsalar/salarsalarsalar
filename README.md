@@ -25,12 +25,9 @@ I'm a data enthusiast and full-stack developer passionate about making smart tec
 
 
 ---
-## 📄Porfolio Website
-[<image style="border-radius: 50%" src="Portfolio_icon-modified.png" height=64 width=64>](https://my-portfolio-m4elqliu4-salar-ahmeds-projects.vercel.app/) https://my-portfolio-m4elqliu4-salar-ahmeds-projects.vercel.app/
-
 
 ## 📫 Reach Me
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/salar-ahmed-426622296/) https://www.linkedin.com/in/salar-ahmed-426622296/
 
-[![Mail](https://skillicons.dev/icons?i=gmail)](mailto:salarahmed9876@gmail.com) salarahmed9876@gmail.com
+![Mail](https://skillicons.dev/icons?i=gmail) salarahmed9876@gmail.com
  
