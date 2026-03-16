@@ -1,6 +1,6 @@
-# Hi, I'm Salar Ahmed
+# 👋 Hi, I'm Salar Ahmed
 
-I'm a **Data Scientist** with a solid foundation in machine learning, data visualization, and full-stack development[cite: 4]. I am passionate about continuous learning, research, and delivering impactful insights [cite: 6] using a diverse tech stack and DevOps tools[cite: 5].
+I'm a **Data Scientist** with a solid foundation in machine learning, data visualization, and full-stack development. I am passionate about continuous learning, research, and delivering impactful insights using a diverse tech stack and DevOps tools.
 
 ---
 
