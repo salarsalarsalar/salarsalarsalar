@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Salar Ahmed
 
-I'm a **Data Scientist** with a solid foundation in machine learning, data visualization, and full-stack development. I am passionate about continuous learning, research, and delivering impactful insights using a diverse tech stack and DevOps tools.
+I'm a **Data Scientist** with a foundation in machine learning, data visualization, and full-stack development. I am passionate about continuous learning, research, and delivering impactful insights using a diverse tech stack and DevOps tools.
 
 ---
 
@@ -22,28 +22,23 @@ I deploy data-centric solutions using the following core skills:
 | :--- | :--- |
 | **Languages** | Python, C/C++, PHP, SQL, Golang, NoSQL, JavaScript, Typescript, HTML/CSS, R  |
 | **Frameworks** | React, Node.js, Flask, WordPress, Vercel, FastAPI  |
-| **Libraries** | Pandas, NumPy, Matplotlib, Seaborn, D3.js, Web3.js, Scikit-learn, TensorFlow, Streamlit [cite: 11] |
+| **Libraries** | Pandas, NumPy, Matplotlib, Seaborn, D3.js, Web3.js, Scikit-learn, TensorFlow, Streamlit |
 | **Developer Tools** | Git, Docker, VS Code, MongoDB, Wamp server  |
 
 ---
 
 ## Key Projects & Experience
 
-### Final Year Project: Career Counseling App
-* **Technologies:** Python, Flask, mySQL, Streamlit.
-* Developed a web-based **AI-powered platform** to provide personalized career guidance.
-* Utilized large language models for generating personalized career guidance.
-* Integrated personality assessments and university/course recommendation modules.
-
-### Full-Stack Web Application (GitHub Data Analysis)
+### Full-Stack Web Application
 * **Technologies:** Javascript, Express.js, mySQL, Docker.
 * Developed a full-stack web application using Express.js serving a REST API.
-* Visualized GitHub data to show collaboration.
 * Used Kafka and Redis for asynchronous tasks.
 
 ### Professional Experience Summary
-* **Intern at SDS:** Developed a REST API using Express.js and MySQL to store data from learning management systems.
-* Developed a full-stack web application using Express.js, mySQL and Docker to analyze GitHub data.
+* **Software engineer at AKSA SDS:** Developed Backend Javascript containerised Web applications for AKSA SDS
+
+*  **Django developer at xis.ai**  Engineered a full Stack applications that integrated computer vision for automated inventory detection enabling
+faster stock and improved efficiency for the internals applications of xis.ai. Worked in ctrlX environment and deployed snapscraft applications for internal use of Xis.ai
 
 ---
 
